@@ -1,6 +1,7 @@
 # :triangular_flag_on_post: Apache Kafka
 
 ![](/images/a-kafka.png)
+
 <b> Apache Kafka, yüksek performanslı, dağıtık bir veri akışı platformudur. Birçok uygulama arasında gerçek zamanlı veri akışı ve olay işleme sağlamak için kullanılır. Kafka, büyük ölçekli veri işleme, günlük kayıtları, uygulama metrikleri, makine sensör verileri gibi verilerin toplanması, depolanması ve dağıtılmasında etkili bir araçtır.</b>
 
 ## 🎯 **Topic ve Partition**
